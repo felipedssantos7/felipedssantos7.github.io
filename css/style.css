@@ -10,7 +10,7 @@ body {
 .navbar {
 	margin: 0px;
 	overflow: hidden;
-	background-color: darkblue;
+	background-color: #333333;
 }
 
 .navbar a {
@@ -24,16 +24,19 @@ body {
 
 .navbar span.left {
   float: left;
-  display: block;
   color: white;
-  text-align: center;
-  padding: 20px;
-  font-size: 15px;
+  padding: 20px 0px 0px 10px;
+  font-size: 20px;
   font-weight: bold;
 }
 
+#logo {
+	height: 20px;
+}
+
 .navbar a:hover {
-  background-color: black;
+  background-color: white;
+  color: #333333;
 }
 
 .main {
@@ -54,7 +57,7 @@ body {
 
 .notice:hover {
 	cursor: pointer;
-	background-color: lightgrey;
+	background-color: #F5F5F5;
 }
 
 h1, h5 {
