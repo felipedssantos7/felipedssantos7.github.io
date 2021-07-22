@@ -8,7 +8,7 @@ body {
 }
 
 .navbar {
-	margin: 0px 300px;
+	margin: 0px;
 	overflow: hidden;
 	background-color: darkblue;
 }
@@ -37,8 +37,14 @@ body {
 }
 
 .main {
-	margin: 0px 300px;
+	width: 75%;
  	background-color: white;
+}
+
+.center {
+  margin: auto;
+  width: 75%;
+  padding: 10px;
 }
 
 .notice {
@@ -51,7 +57,7 @@ body {
 	background-color: lightgrey;
 }
 
-h2, h5 {
+h1, h5 {
 	margin: 10px 0px;
 }
 
