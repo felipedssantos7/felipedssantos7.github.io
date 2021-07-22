@@ -1,0 +1,60 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+.navbar {
+	margin: 0px 300px;
+	overflow: hidden;
+	background-color: darkblue;
+}
+
+.navbar a {
+  float: right;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+}
+
+.navbar span.left {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.navbar a:hover {
+  background-color: black;
+}
+
+.main {
+	margin: 0px 300px;
+ 	background-color: white;
+}
+
+.notice {
+	padding: 5px 10px;
+	margin: 10px 0px;
+}
+
+.notice:hover {
+	cursor: pointer;
+	background-color: lightgrey;
+}
+
+h2, h5 {
+	margin: 10px 0px;
+}
+
+.image {
+  width: 100%;
+}
