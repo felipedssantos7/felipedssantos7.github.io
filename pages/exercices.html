@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+	<meta charset="utf-8">
+	<title>Exercícios de JS</title>
+</head>
+<body>
+	<button onclick="questao1();">Função MAIOR_MENOR(a, b, c, d, e)</button><br><br>
+	<button onclick="questao2();">Função VOGAL(c)</button><br><br>
+	<button onclick="questao3();">Função LIMITES(li, ls)</button><br><br>
+	<button onclick="questao4();">Função ORDEM(a, b, c)</button><br><br>
+	<button onclick="questao5();">Função POSITIVO_NEGATIVO(x)</button><br><br>
+	<button onclick="questao6();">Função PAR_IMPAR(x)</button>
+</body>
+<script type="text/javascript">
+
+	function questao1(){
+		var n = [];
+		for(var i=0;i<5;i++){
+			n[i] = parseInt(prompt("Digite o " + (i+1) + "º valor:"));
+		}
+		MAIOR_MENOR(n[0], n[1], n[2], n[3], n[4], n[5]);
+	}
+
+	function MAIOR_MENOR(a, b, c, d, e){
+		var maior = a;
+		var menor = a;
+		if(b > maior){
+			maior = b;
+		}
+		if(c > maior){
+			maior = c;
+		}
+		if(d > maior){
+			maior = d;
+		}
+		if(e > maior){
+			maior = e;
+		}
+		if(b < menor){
+			menor = b;
+		}
+		if(c < menor){
+			menor = c;
+		}
+		if(d < menor){
+			menor = d;
+		}
+		if(e < menor){
+			menor = e;
+		}
+		alert("Maior: " + maior);
+		alert("Menor: " + menor);
+	}
+
+	function questao2(){
+		var c = prompt("Digite um caractere:");
+		VOGAL(c);
+	}
+
+	function VOGAL(c){
+		if(c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' || 
+		   c == 'A' || c == 'E' || c == 'I' || c == 'O' || c == 'U'){
+			alert(1);
+		} else {
+			alert(0);
+		}
+	}
+
+	function questao3(){
+		var li = parseInt(prompt("Digite o limite inferior:"));
+		var ls = parseInt(prompt("Digite o limite superior:"));
+		LIMITES(li, ls);
+	}
+
+	function LIMITES(li, ls){
+		var numeros_pares = "";
+		var somatorio = 0;
+		for(var n=(li+1); n<ls; n++){
+			if(n%2 == 0){
+				numeros_pares += n + " ";
+				somatorio += n;
+			}
+		}
+		alert("Número pares do intervalo aberto: " + numeros_pares);
+		alert("Somatório: " + somatorio);
+	}
+
+	function questao4(){
+		var a = parseInt(prompt("Digite o valor de A:"));
+		var b = parseInt(prompt("Digite o valor de B:"));
+		var c = parseInt(prompt("Digite o valor de C:"));
+		ORDEM(a, b, c);
+	}
+
+	function ORDEM(a, b, c){
+		var maior = a;
+		var menor = a;
+		var meio = a;
+		if(b > maior){
+			maior = b;
+		}
+		if(c > maior){
+			maior = c;
+		}
+		if(b < menor){
+			menor = b;
+		}
+		if(c < menor){
+			menor = c;
+		}
+		if(b != maior && b!= menor){
+			meio = b;
+		}
+		if(c != maior && c != menor){
+			meio = c;
+		}
+		alert("Maior: " + maior);
+		alert("Meio: " + meio);
+		alert("Menor: " + menor);
+	}
+
+	function questao5(){
+		var x = parseInt(prompt("Digite um número inteiro:"));
+		if(x != 0){
+			if(POSITIVO_NEGATIVO(x)){
+				alert("É positivo.");
+			} else {
+				alert("É negativo.");
+			}
+		}
+		else{
+			alert('É zero.');
+		}
+	}
+
+	function POSITIVO_NEGATIVO(x){
+		if(x > 0) return true;
+		else return false;
+	}
+
+	function questao6(){
+		var x = parseInt(prompt("Digite um número inteiro:"));
+		if(PAR_IMPAR(x)) alert("É par.");
+		else alert("É ímpar.");
+	}
+
+	function PAR_IMPAR(x){
+		if(x%2 == 0) return true;
+		else return false;
+	}
+
+</script>
+</html>
