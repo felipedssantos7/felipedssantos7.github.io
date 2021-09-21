@@ -76,12 +76,6 @@ ul, ol {
     border: 1px solid transparent;
 }
 
-@media (max-width: 995px) {
-    #menu {
-        display: block;
-    }
-}
-
 .quote {
     border-left: 3px solid black;
     padding-left: 10px;
@@ -89,4 +83,10 @@ ul, ol {
     padding-top: 5px;
     vertical-align: middle;
     margin: 10px 0px;
+}
+
+@media (max-width: 995px) {
+    #menu {
+        display: block;
+    }
 }
