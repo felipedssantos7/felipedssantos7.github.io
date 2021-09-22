@@ -273,7 +273,7 @@ function setFontSize(size) {
     disableScrolling();
     document.execCommand("fontSize", false, size);
     setTimeout(enableScrolling, 1);
-    isOverflown();
+    setQuoteSize(size);
 }
 
 // Adição de diferentes tipos de cabeçalho.
@@ -451,6 +451,7 @@ function addCitation() {
     document.execCommand("insertHTML", false, new_quote);
     var quotes = document.getElementsByClassName("quote");
     for(var i = 0; i < quotes.length; i++) {
+        quotes[i].style.backgroundColor = "rgb(240, 250, 255)";
         quotes[i].style.borderLeft = "3px solid black";
         quotes[i].style.paddingLeft = "10px";
         quotes[i].style.paddingTop = "5px";
@@ -460,7 +461,7 @@ function addCitation() {
     }
 }
 
-function isOverflown() {
+function setQuoteSize() {
     var quotes = document.getElementsByClassName("quote");
     for(var i = 0; i < quotes.length; i++) {
         if(quotes[i].scrollHeight > quotes[i].clientHeight) {
@@ -468,6 +469,10 @@ function isOverflown() {
             quotes[i].style.height = height + "px";
         } else {
             quotes[i].style.height = "25px";
+            if(quotes[i].scrollHeight > quotes[i].clientHeight) {
+                var height = quotes[i].scrollHeight;
+                quotes[i].style.height = height + "px";
+            }
         }
     }
 }
