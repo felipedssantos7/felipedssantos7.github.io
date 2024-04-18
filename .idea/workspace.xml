@@ -4,83 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df06435f-b75d-45c6-acc9-516477c33fbc" name="Changes" comment="Add index.html">
-      <change afterPath="$PROJECT_DIR$/content/post/quality-assurance/figura-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/quality-assurance/figura-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/quality-assurance/figura-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/quality-assurance/figura-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/quality-assurance/figura-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/quality-assurance/figura-6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/syntax/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/syntax/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/syntax/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/syntax/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/syntax/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/syntax/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/test-with-whitespaces/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/test-with-whitespaces/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/test-with-whitespaces/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/test-with-whitespaces/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/test-with-whitespaces/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/test-with-whitespaces/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/test/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/test/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/test/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/test/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page/about-hugo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/page/about-hugo/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page/about-us/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/page/about-us/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/page/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page/archives/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/page/archives/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/page/contact/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/page/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/page/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page/links/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/page/links/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/page/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page/search/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/page/search/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page/search/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page/search/index.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/post/emoji-support/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/post/emoji-support/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/post/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/post/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/post/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/post/markdown-syntax/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/post/markdown-syntax/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/post/math-typesetting/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/post/math-typesetting/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/post/migrate-from-jekyl/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/post/migrate-from-jekyl/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/post/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/post/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/post/placeholder-text/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/post/placeholder-text/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/post/rich-content/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/post/rich-content/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/css/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/css/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/css/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/css/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/css/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/css/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/emoji/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/emoji/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/emoji/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/emoji/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/emoji/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/emoji/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/html/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/html/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/html/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/html/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/html/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/markdown/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/markdown/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/markdown/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/markdown/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/markdown/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/markdown/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/privacy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/privacy/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/privacy/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/privacy/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/privacy/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/privacy/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/shortcodes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/shortcodes/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/shortcodes/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/shortcodes/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/shortcodes/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/shortcodes/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/tag-with-whitespaces/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/tag-with-whitespaces/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/tag-with-whitespaces/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/tag-with-whitespaces/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/tag-with-whitespaces/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/tag-with-whitespaces/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/text/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/text/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/text/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/text/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/text/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/text/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ts/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/ts/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ts/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/ts/search.js" afterDir="false" />
+    <list default="true" id="df06435f-b75d-45c6-acc9-516477c33fbc" name="Changes" comment="Add quality assurance post">
       <change beforePath="$PROJECT_DIR$/themes/stack" beforeDir="false" afterPath="$PROJECT_DIR$/themes/stack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/stack/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/stack/config.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +83,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Configuring hugo stack theme" />
     <MESSAGE value="Add index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add index.html" />
+    <MESSAGE value="Add quality assurance post" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add quality assurance post" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
