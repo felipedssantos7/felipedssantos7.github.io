@@ -1,32 +1,3 @@
-# Rich-Text
-Um editor de texto com formatação Rich-Text.<br>
-### Funcionalidades
-- [x] Negrito.
-- [x] Itálico.
-- [x] Sublinhado.
-- [x] Riscado.
-- [x] Sobrescrito.
-- [x] Subscrito.
-- [x] Lista não ordenada.
-- [x] Lista ordenada.
-- [x] Cor do texto.
-- [x] Cor de fundo.
-- [x] Link.
-- [x] Alinhamento à esquerda.
-- [x] Alinhamento ao centro.
-- [x] Alinhamento à direita.
-- [x] Alinhamento justificado.
-- [x] Adição de recuo.
-- [x] Remoção de recuo.
-- [x] Tamanho do texto.
-- [x] Linha horizontal.
-- [x] Família da fonte.
-- [x] Cabeçalhos.
-- [x] Checklist.
-- [x] Adicionar imagem.
-- [x] Redimensionar imagem/GIF.
-- [x] Emoji.
-- [x] Citação.
-- [ ] Adicionar vídeo.
-- [ ] Áudio.
-- [ ] Adicionar um atalho do teclado para cada funcionalidade.
+This is an example site used for solely for testing purposes. **It is not meant to be used as a template for your site**. 
+
+To create a new site, please use the starter template: [CaiJimmy/hugo-theme-stack-starter](https://github.com/CaiJimmy/hugo-theme-stack-starter/)
