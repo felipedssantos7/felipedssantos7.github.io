@@ -2,6 +2,7 @@
 author = "Felipe Santos"
 title = "Garantia de Qualidade"
 date = "2024-04-18"
+lastmod = "2024-04-19"
 description = "Anotações acerca de garantia de qualidade."
 tags = [
 "qa",
